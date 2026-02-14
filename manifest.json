@@ -1,0 +1,16 @@
+
+{
+  "name": "LifeBalance Tracker",
+  "short_name": "LifeBalance",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2913/2913454.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

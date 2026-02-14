@@ -1,0 +1,7 @@
+{
+  "name": "LifeBalance Offline - Behavior, Diet & Energy Tracker",
+  "description": "A fully offline modular health tracking application for nutrition, activities, and energy levels with local storage persistence.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
